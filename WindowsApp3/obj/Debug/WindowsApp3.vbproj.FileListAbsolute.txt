@@ -1,0 +1,10 @@
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.Cache
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+c:\users\nawapon\documents\visual studio 2017\Projects\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
